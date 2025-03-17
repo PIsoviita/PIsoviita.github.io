@@ -1,2 +1,0 @@
-# PIsoviita.github.io
-portfolio
