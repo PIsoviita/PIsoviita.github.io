@@ -1,0 +1,9 @@
+.links {
+    text-align: center;
+}
+a {
+    border-style: solid;
+    border-top: hidden;
+    border-left: hidden ;
+    border-right:hidden;
+}
